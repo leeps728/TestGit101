@@ -8,5 +8,8 @@ namespace TestVS101
     // Testing adding more files
     public class DataLayer
     {
+        // Testing adding more notes
+        int x = 1;
+
     }
 }
