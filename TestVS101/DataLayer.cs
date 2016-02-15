@@ -10,6 +10,8 @@ namespace TestVS101
     {
         // Testing adding more notes
         int x = 1;
+
+        // Add variables
         int acnt = 0;
         int bcnt = 0;
 
